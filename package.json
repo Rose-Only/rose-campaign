@@ -1,0 +1,22 @@
+{
+  "name": "rose-campaign",
+  "version": "1.0.0",
+  "description": "chinese vday project for Rose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rose-Only/rose-campaign.git"
+  },
+  "keywords": [
+    "love"
+  ],
+  "author": "Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rose-Only/rose-campaign/issues"
+  },
+  "homepage": "https://github.com/Rose-Only/rose-campaign#readme"
+}
